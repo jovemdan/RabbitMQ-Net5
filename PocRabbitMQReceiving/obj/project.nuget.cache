@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rjo84dGwonyHRswFG8KwW4FIsftfeb0O1Cz/P7wdVVexodFsIOyTUqRbzSUDgbRDwJZfvgamfSC4O4IV1wrcZw==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\Guide\\PocRabbitMQReceiving\\PocRabbitMQReceiving\\PocRabbitMQReceiving.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danilo.menezes\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\danilo.menezes\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\danilo.menezes\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\danilo.menezes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
